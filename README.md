@@ -1,6 +1,6 @@
 # Chinese Poster
 
-Chinese Poster is simple Chinese learning poster generator with Jyutping and stroke guide.
+Chinese Poster is simple Chinese learning poster generator with Jyutping and stroke guide from wikimedia.org.
 
 <img src="./screen1.png">
 
@@ -19,7 +19,7 @@ Follow these steps to set up the project:
    npm install
    ```
 
-3. **Run the preprocess script**:
+3. **Update the character list (data.csv) and run the preprocess script to fetch the stroke guide from wikimedia.org**:
    ```bash
    npm run preprocess
    ```
