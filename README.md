@@ -2,6 +2,8 @@
 
 Chinese Poster is simple Chinese learning poster generator with Jyutping and stroke guide.
 
+<img src="./screen1.png">
+
 ## Installation Guide
 
 Follow these steps to set up the project:
